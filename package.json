@@ -1,0 +1,23 @@
+{
+  "name": "readmehw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alligatoraustin/readmehw.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alligatoraustin/readmehw/issues"
+  },
+  "homepage": "https://github.com/alligatoraustin/readmehw#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
